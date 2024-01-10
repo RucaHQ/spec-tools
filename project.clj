@@ -1,4 +1,4 @@
-(defproject org.clojars.yorba/spec-tools "0.10.7-SNAPSHOT"
+(defproject org.clojars.yorba/spec-tools "0.10.8-SNAPSHOT"
   :description "Clojure(Script) tools for clojure.spec"
   :url "https://github.com/metosin/spec-tools"
   :license {:name "Eclipse Public License", :url "https://www.eclipse.org/legal/epl-2.0/"}
